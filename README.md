@@ -1,7 +1,7 @@
 # E-Commerce-Dashboard-Orders
-1. Project Title: E-Commerce Orders Analysis Dashboard with Power BI
-2. 
-3. Overview:
+1. Project Title: E-Commerce Orders Analysis Dashboard with Power BI 
+
+2.Overview:
 Developed an interactive Power BI dashboard to analyze E-Commerce orders for a mobile accessories company operating in 14 countries. The project integrates Orders, Customers, and Sales Targets datasets to deliver actionable insights for sales performance, customer segmentation, and business growth.
 
 3.Key Features:
