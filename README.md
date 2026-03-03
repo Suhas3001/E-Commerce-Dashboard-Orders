@@ -42,4 +42,4 @@ Enabled leadership to monitor sales KPIs by country, team, and manager.
 Revealed a 20% sales target shortfall in some teams and a 30% order growth during peak months.
 Helped identify top 5 sales managers and optimize customer targeting, resulting in a 15% sales performance improvement.
 
-6.Screenshots/Demos:
+6.Screenshots/Demos:https://github.com/Suhas3001/E-Commerce-Dashboard-Orders/blob/main/E_Commerce%20Power%20BI%20project.png
